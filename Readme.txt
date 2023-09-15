@@ -1,0 +1,5 @@
+Introduction
+
+My name is Guo Li, I come from China, and you can call me Lilian.
+
+I graduated in Dalian Maritime University, and my major is Internet of Things Engineering. I have been worked for three years as a product manager. My job content including: software design, giving solution to customers and so on. And I don't use development tools and code in my daily work, which is not convinent to communicate with developers, so I want to study in SMU to improve my code skill. And it will also boost my career. That's why I come here to study further.
